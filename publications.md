@@ -6,7 +6,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="docs/assets/publications/2022_wav2vec_dysartric_ASR.png" alt="Infusion publication">
+        <img src="assets/publications/2022_wav2vec_dysartric_ASR.png" alt="Infusion publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">

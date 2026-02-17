@@ -3,7 +3,7 @@
 Useful cheatsheets and reference materials.
 
 <div class="resources-grid">
-    <a href="assets/TransformerLens___PyTorch_Quick_Reference.pdf" class="resource-card">
+    <!-- <a href="assets/TransformerLens___PyTorch_Quick_Reference.pdf" class="resource-card">
         <div class="resource-preview">
             <img src="assets/transformerlens_preview-1.png" alt="TransformerLens & PyTorch Quick Reference">
         </div>
@@ -32,5 +32,5 @@ Useful cheatsheets and reference materials.
             </svg>
         </div>
         <div class="resource-name">MechInterp pyproject.toml</div>
-    </a>
+    </a> -->
 </div>

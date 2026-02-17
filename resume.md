@@ -4,7 +4,7 @@
 
 <div class="timeline">
 
-<div class="timeline-item">
+<!-- <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">University of Oxford</span>
@@ -110,5 +110,5 @@
       <span class="timeline-dates">Sep 2018 – Sep 2022</span>
     </div>
     <div class="timeline-meta">First Class • Academic Scholarship</div>
-  </div>
+  </div> -->
 </div>

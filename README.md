@@ -1,1 +1,1 @@
-# timherzig.github.io
+This page is dedicated to archiving and showing work and projects I've done.

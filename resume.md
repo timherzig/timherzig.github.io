@@ -4,6 +4,16 @@
 
 <div class="timeline">
 
+<div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-header">
+      <span class="timeline-org">Algonaut GmbH</span>
+      <span class="timeline-role">AI Engineer Internship</span>
+      <span class="timeline-dates">Sep 2025 – Dec 2025</span>
+    </div>
+    <div class="timeline-desc">Developed RAG system for automatically extracting structure and content from, and answering Excel-Questionnaires.</div>
+  </div>
+
 <!-- <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">

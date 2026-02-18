@@ -17,7 +17,8 @@
         <div class="publication-year">2025</div>
         <div class="publication-tags">
             <span class="tag tag-safety">Synthesis Detection</span>
-            <a href="https://arxiv.org/abs/2509.00186">ARXIV</a>
+            <a href="https://arxiv.org/abs/2509.00186" class="tag tag-arxiv">ARXIV</a>
+            <a href="https://github.com/arnabdas8901/TRILLFake" class="tag tag-github">GITHUB</a>
         </div>
     </div>
 </div>

@@ -1,7 +1,5 @@
 # Résumé
 
-
-
 <div class="timeline">
 
   <div class="timeline-item">

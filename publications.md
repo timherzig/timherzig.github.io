@@ -17,7 +17,7 @@
         <div class="publication-year">2024</div>
         <div class="publication-tags">
             <span class="tag tag-safety">ASR</span>
-            <a href="https://www.isca-archive.org/interspeech_2024/polzehl24_interspeech.pdf" class="tag tag-arxiv">ARXIV</a>
+            <a href="https://www.isca-archive.org/interspeech_2024/polzehl24_interspeech.pdf" class="tag tag-arxiv">ISCA Archive</a>
             <a href="https://github.com/timherzig/infant_cry" class="tag tag-github">GITHUB</a>
         </div>
     </div>

@@ -4,6 +4,26 @@
 
 <div class="publication-card">
     <div class="publication-image">
+        <img src="assets/publications/2024_sa.png" alt="Speech Anonymization publication">
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="https://www.researchgate.net/profile/Arnab-Das-30/publication/383435020_Comparing_Speech_Anonymization_Efficacy_by_Voice_Conversion_Using_KNN_and_Disentangled_Speaker_Feature_Representations/links/66cdca8cdaf28b7daf3fd80d/Comparing-Speech-Anonymization-Efficacy-by-Voice-Conversion-Using-KNN-and-Disentangled-Speaker-Feature-Representations.pdf" class="publication-link">
+                Comparing Speech Anonymization Efficacy by Voice Conversion Using KNN and Disentangled Speaker Feature Representations
+            </a>
+        </h3>
+        <div class="publication-venue">Voice Privacy Challenge 2024</div>
+        <div class="publication-authors">Arnab Das, Carlos Franzreb, Tim Herzig, Philipp Pirlet, Tim Polzehl</div>
+        <div class="publication-year">2024</div>
+        <div class="publication-tags">
+            <span class="tag tag-safety">Voice System</span>
+            <a href="https://www.researchgate.net/profile/Arnab-Das-30/publication/383435020_Comparing_Speech_Anonymization_Efficacy_by_Voice_Conversion_Using_KNN_and_Disentangled_Speaker_Feature_Representations/links/66cdca8cdaf28b7daf3fd80d/Comparing-Speech-Anonymization-Efficacy-by-Voice-Conversion-Using-KNN-and-Disentangled-Speaker-Feature-Representations.pdf" class="tag tag-arxiv">Voice Privacy Challenge</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-image">
         <img src="assets/publications/2024_vpc.png" alt="Voice Privacy Challenge publication">
     </div>
     <div class="publication-content">

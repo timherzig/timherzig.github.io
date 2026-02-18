@@ -4,6 +4,26 @@
 
 <div class="publication-card">
     <div class="publication-image">
+        <img src="assets/publications/2024_vpc.png" alt="Voice Privacy Challenge publication">
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="https://www.voiceprivacychallenge.org/vp2024/docs/T30_____V-Beam_____System_Description_for_Voice_Privacy_Challenge_2024.pdf" class="publication-link">
+                System description for Voice Privacy challenge 2024
+            </a>
+        </h3>
+        <div class="publication-venue">Voice Privacy Challenge 2024</div>
+        <div class="publication-authors"></div>
+        <div class="publication-year">2024</div>
+        <div class="publication-tags">
+            <span class="tag tag-safety">Voice System</span>
+            <a href="https://www.voiceprivacychallenge.org/vp2024/docs/T30_____V-Beam_____System_Description_for_Voice_Privacy_Challenge_2024.pdf" class="tag tag-arxiv">Voice Privacy Challenge</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-image">
         <img src="assets/publications/2024_infant_cry.jpg" alt="Infant Cry publication">
     </div>
     <div class="publication-content">
@@ -16,7 +36,7 @@
         <div class="publication-authors">Tim Polzehl, Tim Herzig, Friedrich Wicke, Kathleen Wermke, Razieh Khamsehashari, Michiko Dahlem, Sebastian Möller</div>
         <div class="publication-year">2024</div>
         <div class="publication-tags">
-            <span class="tag tag-safety">ASR</span>
+            <span class="tag tag-safety">Voice System</span>
             <a href="https://www.isca-archive.org/interspeech_2024/polzehl24_interspeech.pdf" class="tag tag-arxiv">ISCA Archive</a>
             <a href="https://github.com/timherzig/infant_cry" class="tag tag-github">GITHUB</a>
         </div>
